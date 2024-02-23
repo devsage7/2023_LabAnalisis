@@ -1,2 +1,2 @@
-Java Swing + PostgreSQL
+Java Swing + PostgreSQL +
 Patrón de diseño DAO
